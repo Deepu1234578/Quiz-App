@@ -28,3 +28,11 @@ them and view their results.
 - `test.html` / `test.js` / `test.css` – Test/quiz logic
 - `Report.html` / `Report.css` – Results/report view
 - `result.html` / `result.css` – Result display
+
+## Here the final Deployed link of whole Project.
+Online Quiz 
+https://quiz-ewp.vercel.app
+
+## To access Admin Block.
+****UserName-admin.**
+**Password-12345**
